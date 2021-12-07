@@ -3,4 +3,4 @@ pip install flask_sqlalchemy-for database addition
 pip install flask-bcrypt  - for password hashing to get more security for users
 Flask-WTF , WTForms- for working with forms
 Jinja2 - tempalting language for flask app
-flask-login - for managing login logout
+flask-login - for managing login logout of user
