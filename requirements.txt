@@ -1,0 +1,3 @@
+1.pip install flask-framework installation
+2.pip install flask_sqlalchemy-for database addition
+3.pip install flask-bcrypt-for password hashing to get more security for users
