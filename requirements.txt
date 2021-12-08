@@ -4,3 +4,4 @@ pip install flask-bcrypt  - for password hashing to get more security for users
 Flask-WTF , WTForms- for working with forms
 Jinja2 - tempalting language for flask app
 flask-login - for managing login logout of user
+flask-mail   -   for sending reset link for reset password
